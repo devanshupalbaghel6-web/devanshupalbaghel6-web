@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**devanshupalbaghel6-web/devanshupalbaghel6-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm devanshu-pal-baghel 👋
 
-Here are some ideas to get you started:
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40devanshupalbaghel6--web-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/devanshupalbaghel6-web)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/devanshupalbaghel6-web.svg?variant=secondary&size=sm)](https://github.com/devanshupalbaghel6-web?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/devanshupalbaghel6-web.svg?variant=secondary&size=sm)](https://github.com/devanshupalbaghel6-web?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-5-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/devanshupalbaghel6-web?tab=repositories)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm)
+
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
